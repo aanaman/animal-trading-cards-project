@@ -1,0 +1,43 @@
+/* add your CSS here */
+.container {
+	width: 350px;
+	border: 1px solid black;
+	border-radius: 5px;
+	box-shadow: 10px 5px 5px gray;}
+
+.animal_name {
+padding: 0.5em;
+}
+
+img {
+	padding: 1em;
+	margin: 5px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.animal_info {
+	border: 1px solid black;
+	width: 300px;
+	margin: 5px;
+	padding: 1em;
+	border-radius: 5px;
+}
+
+.animal_fact {
+	font-style: italic;
+	padding: 0.5em;
+}
+
+.animal_description {
+padding: 0.5em;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0.5em;
+}
+
+li span {
+	font-weight: bold;
+}
